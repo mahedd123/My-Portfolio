@@ -199,7 +199,7 @@ function App() {
 
         {/* Right Side Action/Socials */}
         <div className="nav-socials">
-          <a href="https://github.com/mahela" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="GitHub">
+          <a href="https://github.com/mahedd123" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="GitHub">
             <Github size={18} />
           </a>
           <a href="https://www.linkedin.com/in/mahela-damsara-126195311" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="LinkedIn">
@@ -392,7 +392,7 @@ function App() {
               </p>
               <div className="project-footer">
                 <span className="project-tech">Spring Boot, React, MongoDB, MySQL</span>
-                <a href="https://github.com/mahela" className="project-action-link" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/mahedd123" className="project-action-link" target="_blank" rel="noopener noreferrer">
                   View Repo
                 </a>
               </div>
@@ -422,7 +422,7 @@ function App() {
               </p>
               <div className="project-footer">
                 <span className="project-tech">Java, Servlet, MySQL, CSS</span>
-                <a href="https://github.com/mahela" className="project-action-link" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/mahedd123" className="project-action-link" target="_blank" rel="noopener noreferrer">
                   View Repo
                 </a>
               </div>
@@ -452,7 +452,7 @@ function App() {
               </p>
               <div className="project-footer">
                 <span className="project-tech">React, CSS, SVG-Icons</span>
-                <a href="https://github.com/mahela" className="project-action-link" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/mahedd123" className="project-action-link" target="_blank" rel="noopener noreferrer">
                   View Repo
                 </a>
               </div>
@@ -492,7 +492,7 @@ function App() {
                 <div className="contact-icon-box"><Github size={20} /></div>
                 <div className="contact-detail-content">
                   <span className="contact-label">GitHub</span>
-                  <a href="https://github.com/mahela" target="_blank" rel="noopener noreferrer" className="contact-value">github.com/mahela</a>
+                  <a href="https://github.com/mahedd123" target="_blank" rel="noopener noreferrer" className="contact-value">github.com/mahedd123</a>
                 </div>
               </div>
 
